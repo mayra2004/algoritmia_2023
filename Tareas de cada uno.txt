@@ -1,0 +1,65 @@
+INFORME: 
+  debe de estar hecho hasta el sabado(24/06/23)
+
+-leonardo
+    -introducción(modificarlo y cambiar palabras)
+    -justificación(modificarlo y cambiar palabras)
+-Mayra  
+    -objetivos 
+    -definición
+-Omar
+    -conclusiones(modificar y cambiar palabras)
+    -recomendaciones(modificar y cambiar palabras)
+-jose
+    -glosario(hacerlo)
+    -bibliografia(modificarlo)
+
+ECLIPSE: 
+
+
+    ARREGLOS
+     nota:los aareglos deben de estar hechos
+     maximo para el martes(20/06/23)guiense
+     de los otros proyectos que subio e profesor 
+
+ -LEONARDO
+     -Arreglo de Matricula
+
+ -MAYRA
+     -Arreglo de Docente
+
+ -OMAR
+     -Arreglo de Curso
+
+ -JOSE
+     -Arreglo de Alumno
+
+-----guis terminadas------
+
+    Funciones:
+    debe de estar hecho hasta el sabado
+   (24/06/23) por si queremos hacer
+    correciones
+
+
+-Leonardo
+    -Mantenimiento
+          -cumplir con que los botones de ingreso,
+            modificacio, consulta, eliminación,
+            listado
+    
+-Mayra
+    -Asignación docente
+         -hacer que cumpla con lo que pide
+ 
+-Omar
+    -reportes
+         -hacer que cumpla con lo que pide 
+         -si es necesario puedes hacer cambios 
+             al gui
+
+-Jose
+    -retiros
+         -hacer que cumpla con lo que pide
+    -Matriculas
+         -hacer que cumpla con lo que pide
